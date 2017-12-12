@@ -29,8 +29,19 @@ uuuu
 
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
 
 
+<<<<<<< HEAD
 ttttt
+=======
+ttttt
+=======
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz z
+>>>>>>> 87dd1b5c934687430ed045c607e58c1c8a2d3e80
+>>>>>>> master
